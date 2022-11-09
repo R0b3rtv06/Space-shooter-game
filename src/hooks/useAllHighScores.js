@@ -49,5 +49,6 @@ export default function useAllHighScores() {
     allScores,
     deleteScore,
     isDeleting,
+    setAllScores,
   };
 }
